@@ -86,3 +86,13 @@ The backend for a users directory website. All of the functionality below are fu
 - Validation using Mongoose and no external libraries
 - Use async/await (create middleware to clean up controller methods)
 - Create a database seeder to import and destroy data
+
+## Demo
+
+The API is live at []()
+
+Extensive documentation with examples [here]()
+
+- Version: 1.0.0
+- License: MIT
+- Author: Mubashir Ali

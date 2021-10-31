@@ -1,7 +1,7 @@
 {
-  "name": "edtech-management",
+  "name": "auth-framework",
   "version": "1.0.0",
-  "description": "EdTech-Management backend API",
+  "description": "auth",
   "main": "server.js",
   "scripts": {
     "start": "NODE_ENV=production node server",

@@ -91,7 +91,7 @@ The backend for a users directory website. All of the functionality below are fu
 
 The API is live at []()
 
-Extensive documentation with examples [here]()
+Extensive documentation with examples [here](https://documenter.getpostman.com/view/14909689/UVByHpXC)
 
 - Version: 1.0.0
 - License: MIT

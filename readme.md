@@ -43,7 +43,7 @@ The backend for a users directory website. All of the functionality below are fu
 - Authentication will be ton using JWT/cookies
   - JWT and cookie should expire in 30 days
 - User registration
-  - Register as a "user" or "publisher"
+  - Register as a "user" or "customer"
   - Once registered, a token will be sent along with a cookie (token = xxx)
   - Passwords must be hashed
 - User login
